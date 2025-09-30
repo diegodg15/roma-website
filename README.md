@@ -56,5 +56,21 @@
 - Lenguas latinas  
 - Arquitectura y urbanismo  
 
+> [!NOTE]
+> **Proyecto:** Sitio web sobre Roma  
+> **Fase actual:** Diseño con **Figma** y paletas de color en **Adobe Color**
+
+<details>
+<summary>🎨 Detalle del diseño</summary>
+
+**Objetivo:** Crear una interfaz clara y atractiva para un sitio educativo sobre Roma.  
+
+**Elementos en trabajo:**
+1. Estructura visual en Figma (wireframes y prototipos).  
+2. Paleta cromática definida en Adobe Color.  
+3. Preparación de tipografía y estilo para la maqueta inicial.  
+
+</details>
+
 <hr>
 <p align="center">&copy; DIEGO GUERRERO</p> 
